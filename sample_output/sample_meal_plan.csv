@@ -1,0 +1,72 @@
+﻿Day,Meal,Food,Portion,Calories,Protein (g),Carbs (g),Fat (g),Fiber (g),Sodium (mg)
+Day 1,Breakfast,Moong Dal Chilla,1.25 x 2 chillas,250,15.0,30.0,7.5,6.2,375
+Day 1,Breakfast,Soy Milk,1 x 1 glass (200 ml),110,8.0,9.0,4.5,1.0,100
+Day 1,Lunch,Jowar Roti,0.75 x 2 rotis,135,3.8,28.5,1.1,3.8,8
+Day 1,Lunch,Soya Chunk Curry,1 x 1 bowl (180 g),220,22.0,14.0,8.0,6.0,400
+Day 1,Lunch,Matar Mushroom,1 x 1 bowl (150 g),140,6.0,16.0,6.0,4.0,330
+Day 1,Snack,Roasted Chana,1 x 30 g,110,6.0,18.0,2.0,5.0,15
+Day 1,Snack,Buttermilk,0.5 x 1 glass (250 ml),28,1.5,3.0,1.0,0.0,125
+Day 1,Dinner,Vegetable Khichdi,0.75 x 1 bowl (300 g),188,7.5,31.5,3.8,3.8,285
+Day 1,Dinner,Tofu Stir Fry,1 x 1 bowl (180 g),200,16.0,10.0,12.0,3.0,420
+Day 1,Dinner,Cucumber Tomato Salad,1 x 1 bowl (150 g),40,1.5,8.0,0.3,2.0,20
+Day 2,Breakfast,Ragi Porridge,1 x 1 bowl (250 ml),180,5.0,36.0,2.0,4.0,40
+Day 2,Breakfast,Tofu Scramble,1 x 1 bowl (150 g),180,14.0,5.0,11.0,2.0,300
+Day 2,Lunch,Vegetable Pulao,0.5 x 1 plate (250 g),140,3.0,24.0,3.5,1.5,210
+Day 2,Lunch,Chole Masala,1 x 1 bowl (200 g),250,12.0,36.0,7.0,10.0,450
+Day 2,Lunch,Curd (Dahi),1 x 1 bowl (150 g),100,6.0,8.0,5.0,0.0,70
+Day 2,Snack,Hummus with Carrot Sticks,0.5 x 1 small bowl,70,2.5,7.5,3.5,2.5,115
+Day 2,Snack,Sprouts Chaat,0.5 x 1 bowl (120 g),65,4.0,10.0,0.8,3.0,110
+Day 2,Dinner,Multigrain Roti,0.5 x 2 rotis,95,3.5,17.0,2.0,3.0,110
+Day 2,Dinner,Paneer Tikka,0.75 x 6 pieces,195,12.0,6.0,13.5,1.5,285
+Day 2,Dinner,Lentil Soup,1 x 1 bowl (250 ml),150,9.0,22.0,3.0,5.0,380
+Day 3,Breakfast,Greek Yogurt with Fruits,1.25 x 1 bowl (200 g),212,15.0,25.0,5.0,2.5,88
+Day 3,Breakfast,Milk,1 x 1 glass (200 ml),125,6.5,10.0,6.5,0.0,100
+Day 3,Lunch,Whole Wheat Roti,0.5 x 2 rotis,100,3.0,20.0,1.5,2.5,120
+Day 3,Lunch,Soya Chunk Curry,1 x 1 bowl (180 g),220,22.0,14.0,8.0,6.0,400
+Day 3,Lunch,Cabbage Poriyal,1 x 1 bowl (120 g),100,3.0,11.0,5.0,4.0,220
+Day 3,Lunch,Cucumber Raita,1 x 1 bowl (150 g),90,4.0,8.0,4.0,1.0,150
+Day 3,Snack,Roasted Chana,1 x 30 g,110,6.0,18.0,2.0,5.0,15
+Day 3,Snack,Buttermilk,0.5 x 1 glass (250 ml),28,1.5,3.0,1.0,0.0,125
+Day 3,Dinner,Tomato Soup,0.5 x 1 bowl (250 ml),35,1.0,6.5,0.8,1.0,210
+Day 3,Dinner,Bajra Roti,0.75 x 2 rotis,150,4.5,28.5,2.6,3.0,8
+Day 3,Dinner,Palak Paneer,1 x 1 bowl (180 g),260,14.0,9.0,18.0,3.0,420
+Day 4,Breakfast,Besan Chilla,0.75 x 2 chillas,165,8.2,18.8,6.0,3.0,240
+Day 4,Breakfast,Moong Dal Chilla,1 x 2 chillas,200,12.0,24.0,6.0,5.0,300
+Day 4,Lunch,Quinoa Veg Bowl,0.75 x 1 bowl (250 g),195,6.8,30.0,5.2,4.5,150
+Day 4,Lunch,Tofu Stir Fry,1 x 1 bowl (180 g),200,16.0,10.0,12.0,3.0,420
+Day 4,Lunch,Curd (Dahi),1 x 1 bowl (150 g),100,6.0,8.0,5.0,0.0,70
+Day 4,Snack,Dhokla,0.5 x 3 pieces,75,3.0,12.0,1.5,1.0,190
+Day 4,Snack,Guava,1 x 1 medium,68,2.6,14.0,1.0,5.0,2
+Day 4,Dinner,Jowar Roti,0.5 x 2 rotis,90,2.5,19.0,0.8,2.5,5
+Day 4,Dinner,Soya Chunk Curry,1 x 1 bowl (180 g),220,22.0,14.0,8.0,6.0,400
+Day 4,Dinner,Lauki Sabzi,1 x 1 bowl (150 g),90,2.0,10.0,4.0,3.0,250
+Day 5,Breakfast,Tofu Scramble,0.75 x 1 bowl (150 g),135,10.5,3.8,8.2,1.5,225
+Day 5,Breakfast,Oats Porridge with Milk,1 x 1 bowl (250 ml),220,9.0,32.0,6.0,4.0,90
+Day 5,Lunch,Vegetable Khichdi,0.75 x 1 bowl (300 g),188,7.5,31.5,3.8,3.8,285
+Day 5,Lunch,Rajma Masala,1 x 1 bowl (200 g),220,12.0,34.0,4.0,9.0,420
+Day 5,Lunch,Cucumber Raita,1 x 1 bowl (150 g),90,4.0,8.0,4.0,1.0,150
+Day 5,Snack,Hummus with Carrot Sticks,1 x 1 small bowl,140,5.0,15.0,7.0,5.0,230
+Day 5,Dinner,Steamed White Rice,0.5 x 1 cup cooked,102,2.0,22.5,0.2,0.5,1
+Day 5,Dinner,Paneer Bhurji,0.75 x 1 bowl (150 g),188,12.0,4.5,13.5,1.5,285
+Day 5,Dinner,Matar Mushroom,1 x 1 bowl (150 g),140,6.0,16.0,6.0,4.0,330
+Day 6,Breakfast,Sprouts Salad Bowl,1.5 x 1 bowl (150 g),225,15.0,36.0,1.5,10.5,270
+Day 6,Breakfast,Milk,1 x 1 glass (200 ml),125,6.5,10.0,6.5,0.0,100
+Day 6,Lunch,Multigrain Roti,0.5 x 2 rotis,95,3.5,17.0,2.0,3.0,110
+Day 6,Lunch,Dal Tadka,1 x 1 bowl (200 g),180,10.0,24.0,5.0,6.0,400
+Day 6,Lunch,Baingan Bharta,1 x 1 bowl (150 g),120,3.0,14.0,6.0,5.0,300
+Day 6,Lunch,Curd (Dahi),1 x 1 bowl (150 g),100,6.0,8.0,5.0,0.0,70
+Day 6,Snack,Roasted Chana,0.5 x 30 g,55,3.0,9.0,1.0,2.5,8
+Day 6,Snack,Soy Milk,1 x 1 glass (200 ml),110,8.0,9.0,4.5,1.0,100
+Day 6,Dinner,Brown Rice,0.5 x 1 cup cooked,108,2.5,22.5,1.0,2.0,5
+Day 6,Dinner,Soya Chunk Curry,1 x 1 bowl (180 g),220,22.0,14.0,8.0,6.0,400
+Day 6,Dinner,Vegetable Soup,1 x 1 bowl (250 ml),80,3.0,14.0,1.5,3.0,450
+Day 7,Breakfast,Greek Yogurt with Fruits,1 x 1 bowl (200 g),170,12.0,20.0,4.0,2.0,70
+Day 7,Breakfast,Vegetable Oats Upma,1 x 1 bowl (200 g),200,7.0,30.0,6.0,5.0,380
+Day 7,Lunch,Jowar Roti,1 x 2 rotis,180,5.0,38.0,1.5,5.0,10
+Day 7,Lunch,Tofu Stir Fry,1 x 1 bowl (180 g),200,16.0,10.0,12.0,3.0,420
+Day 7,Lunch,Bhindi Sabzi,1 x 1 bowl (120 g),110,3.0,12.0,6.0,4.0,280
+Day 7,Snack,Sprouts Chaat,0.5 x 1 bowl (120 g),65,4.0,10.0,0.8,3.0,110
+Day 7,Snack,Hummus with Carrot Sticks,0.5 x 1 small bowl,70,2.5,7.5,3.5,2.5,115
+Day 7,Dinner,Lentil Soup,0.5 x 1 bowl (250 ml),75,4.5,11.0,1.5,2.5,190
+Day 7,Dinner,Bajra Roti,0.5 x 2 rotis,100,3.0,19.0,1.8,2.0,5
+Day 7,Dinner,Paneer Bhurji,1 x 1 bowl (150 g),250,16.0,6.0,18.0,2.0,380

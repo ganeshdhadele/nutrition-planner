@@ -1,0 +1,82 @@
+name,role,meals,diet,serving,kcal,protein,carbs,fat,fiber,sodium,gi,allergens,tags
+Poha,main,breakfast,vegan,1 plate (150 g),250,5,45,6,3,350,medium,none,iron
+Vegetable Upma,main,breakfast,vegan,1 bowl (180 g),230,6,38,7,3,400,medium,gluten,
+Idli with Sambar,main,breakfast,vegan,3 idlis + sambar,240,9,45,2,5,420,medium,none,probiotic
+Plain Dosa with Chutney,main,breakfast,vegan,1 dosa,190,4,31,5,2,330,medium,none,probiotic
+Moong Dal Chilla,main,breakfast,vegan,2 chillas,200,12,24,6,5,300,low,none,iron
+Besan Chilla,main,breakfast,vegan,2 chillas,220,11,25,8,4,320,low,none,
+Oats Porridge with Milk,main,breakfast,veg,1 bowl (250 ml),220,9,32,6,4,90,low,gluten;dairy,calcium
+Vegetable Oats Upma,main,breakfast,vegan,1 bowl (200 g),200,7,30,6,5,380,low,gluten,
+Masala Omelette,main,breakfast,egg,2-egg omelette,190,13,3,14,1,330,low,egg,
+Boiled Eggs with Toast,main,breakfast,egg,2 eggs + 1 toast,235,15,14,12,2,260,medium,egg;gluten,
+Paneer Paratha,main,breakfast,veg,1 paratha,300,11,33,14,3,380,medium,gluten;dairy,calcium
+Peanut Butter Toast,main,breakfast,vegan,2 slices,280,11,30,14,5,330,medium,gluten;nuts,
+Greek Yogurt with Fruits,main,breakfast,veg,1 bowl (200 g),170,12,20,4,2,70,low,dairy,calcium;probiotic
+Ragi Porridge,main,breakfast,vegan,1 bowl (250 ml),180,5,36,2,4,40,low,none,iron;calcium
+Sprouts Salad Bowl,main,breakfast,vegan,1 bowl (150 g),150,10,24,1,7,180,low,none,iron
+Daliya Porridge,main,breakfast,vegan,1 bowl (250 ml),190,6,38,2,6,120,low,gluten,
+Methi Thepla,main,breakfast,vegan,2 theplas,220,6,30,8,4,330,medium,gluten,iron
+Banana Peanut Smoothie,main,breakfast,veg,1 glass (300 ml),260,9,38,9,4,80,medium,nuts;dairy,
+Tofu Scramble,main,breakfast,vegan,1 bowl (150 g),180,14,5,11,2,300,low,soy,iron;calcium
+Chicken Sandwich,main,breakfast,nonveg,1 sandwich,320,24,34,9,4,580,medium,gluten,
+Vegetable Khichdi,onepot,lunch;dinner,vegan,1 bowl (300 g),250,10,42,5,5,380,medium,none,iron
+Vegetable Pulao,onepot,lunch;dinner,vegan,1 plate (250 g),280,6,48,7,3,420,medium,none,
+Chicken Biryani,onepot,lunch;dinner,nonveg,1 plate (300 g),420,22,55,12,3,700,high,none,
+Quinoa Veg Bowl,onepot,lunch;dinner,vegan,1 bowl (250 g),260,9,40,7,6,200,low,none,iron
+Whole Wheat Roti,carb,lunch;dinner,vegan,2 rotis,200,6,40,3,5,240,medium,gluten,
+Multigrain Roti,carb,lunch;dinner,vegan,2 rotis,190,7,34,4,6,220,low,gluten,
+Jowar Roti,carb,lunch;dinner,vegan,2 rotis,180,5,38,1.5,5,10,low,none,iron
+Bajra Roti,carb,lunch;dinner,vegan,2 rotis,200,6,38,3.5,4,10,medium,none,iron
+Brown Rice,carb,lunch;dinner,vegan,1 cup cooked,215,5,45,2,4,10,medium,none,
+Steamed White Rice,carb,lunch;dinner,vegan,1 cup cooked,205,4,45,0.4,1,2,high,none,
+Dal Tadka,protein,lunch;dinner,vegan,1 bowl (200 g),180,10,24,5,6,400,low,none,iron
+Palak Dal,protein,lunch;dinner,vegan,1 bowl (200 g),170,10,22,5,6,380,low,none,iron
+Rajma Masala,protein,lunch;dinner,vegan,1 bowl (200 g),220,12,34,4,9,420,low,none,iron
+Chole Masala,protein,lunch;dinner,vegan,1 bowl (200 g),250,12,36,7,10,450,low,none,iron
+Soya Chunk Curry,protein,lunch;dinner,vegan,1 bowl (180 g),220,22,14,8,6,400,low,soy,iron
+Tofu Stir Fry,protein,lunch;dinner,vegan,1 bowl (180 g),200,16,10,12,3,420,low,soy,calcium
+Palak Paneer,protein,lunch;dinner,veg,1 bowl (180 g),260,14,9,18,3,420,low,dairy,iron;calcium
+Paneer Bhurji,protein,lunch;dinner,veg,1 bowl (150 g),250,16,6,18,2,380,low,dairy,calcium
+Paneer Tikka,protein,lunch;dinner;snack,veg,6 pieces,260,16,8,18,2,380,low,dairy,calcium
+Chicken Curry,protein,lunch;dinner,nonveg,1 bowl (200 g),280,26,8,16,2,520,low,none,
+Grilled Chicken Breast,protein,lunch;dinner,nonveg,100 g,165,31,0,3.6,0,75,low,none,
+Chicken Tikka,protein,lunch;dinner;snack,nonveg,4 pieces,200,28,4,8,1,400,low,none,
+Fish Curry,protein,lunch;dinner,nonveg,1 bowl (200 g),230,24,6,12,1,450,low,fish,omega3
+Grilled Fish Fillet,protein,lunch;dinner,nonveg,1 fillet (120 g),180,25,0,8,0,90,low,fish,omega3
+Egg Curry,protein,lunch;dinner,egg,1 bowl (2 eggs),250,14,8,18,2,480,low,egg,
+Egg Bhurji,protein,lunch;dinner,egg,2-egg bhurji,200,13,4,14,1,350,low,egg,
+Mixed Vegetable Curry,veg,lunch;dinner,vegan,1 bowl (150 g),130,3,16,6,5,350,low,none,
+Aloo Gobi,veg,lunch;dinner,vegan,1 bowl (150 g),160,4,22,7,4,380,medium,none,
+Bhindi Sabzi,veg,lunch;dinner,vegan,1 bowl (120 g),110,3,12,6,4,280,low,none,
+Matar Mushroom,veg,lunch;dinner,vegan,1 bowl (150 g),140,6,16,6,4,330,low,none,
+Lauki Sabzi,veg,lunch;dinner,vegan,1 bowl (150 g),90,2,10,4,3,250,low,none,
+Cabbage Poriyal,veg,lunch;dinner,vegan,1 bowl (120 g),100,3,11,5,4,220,low,none,
+Baingan Bharta,veg,lunch;dinner,vegan,1 bowl (150 g),120,3,14,6,5,300,low,none,
+Cucumber Tomato Salad,veg,lunch;dinner,vegan,1 bowl (150 g),40,1.5,8,0.3,2,20,low,none,
+Vegetable Soup,soup,dinner,vegan,1 bowl (250 ml),80,3,14,1.5,3,450,low,none,
+Lentil Soup,soup,dinner,vegan,1 bowl (250 ml),150,9,22,3,5,380,low,none,iron
+Tomato Soup,soup,dinner,vegan,1 bowl (250 ml),70,2,13,1.5,2,420,low,none,
+Chicken Clear Soup,soup,dinner,nonveg,1 bowl (250 ml),90,10,4,3,1,480,low,none,
+Curd (Dahi),side,lunch;dinner,veg,1 bowl (150 g),100,6,8,5,0,70,low,dairy,calcium;probiotic
+Cucumber Raita,side,lunch;dinner,veg,1 bowl (150 g),90,4,8,4,1,150,low,dairy,probiotic;calcium
+Buttermilk,drink,lunch;snack,veg,1 glass (250 ml),55,3,6,2,0,250,low,dairy,probiotic;calcium
+Milk,drink,breakfast;snack,veg,1 glass (200 ml),125,6.5,10,6.5,0,100,low,dairy,calcium
+Soy Milk,drink,breakfast;snack,vegan,1 glass (200 ml),110,8,9,4.5,1,100,low,soy,calcium
+Coconut Water,drink,snack,vegan,1 glass (250 ml),45,1.7,9,0.5,2.6,250,low,none,
+Roasted Chana,snack,snack,vegan,30 g,110,6,18,2,5,15,low,none,iron
+Mixed Nuts,snack,snack,vegan,20 g,120,4,4,11,2,2,low,nuts,
+Roasted Almonds,snack,snack,vegan,10 almonds,70,2.6,2.4,6,1.4,0,low,nuts,
+Roasted Makhana,snack,snack,vegan,30 g,105,3.5,22,0.5,2,3,low,none,
+Roasted Peanuts,snack,snack,vegan,30 g,170,7,5,14,2.5,5,low,nuts,
+Sprouts Chaat,snack,snack,vegan,1 bowl (120 g),130,8,20,1.5,6,220,low,none,iron
+Dhokla,snack,snack,vegan,3 pieces,150,6,24,3,2,380,medium,none,probiotic
+Hummus with Carrot Sticks,snack,snack,vegan,1 small bowl,140,5,15,7,5,230,low,sesame,
+Sweet Potato Chaat,snack,snack,vegan,1 bowl (120 g),115,2,27,0.1,4,70,medium,none,
+Boiled Egg,snack,snack,egg,1 egg,78,6,0.6,5,0,62,low,egg,
+Apple,fruit,breakfast;snack,vegan,1 medium,80,0.4,21,0.3,3.5,2,low,none,
+Banana,fruit,breakfast;snack,vegan,1 medium,105,1.3,27,0.4,3,1,medium,none,
+Orange,fruit,breakfast;snack,vegan,1 medium,62,1.2,15,0.2,3,0,low,none,
+Papaya,fruit,breakfast;snack,vegan,1 cup (150 g),60,0.9,15,0.4,2.5,11,medium,none,
+Guava,fruit,breakfast;snack,vegan,1 medium,68,2.6,14,1,5,2,low,none,
+Pomegranate,fruit,snack,vegan,1 cup arils,145,2.9,32,2,7,5,low,none,
+Mixed Fruit Salad,fruit,snack,vegan,1 bowl (150 g),110,1.5,27,0.5,4,5,medium,none,
